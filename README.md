@@ -1,2 +1,2 @@
-# Hi there, I'm [Vladislav] ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-### Computer science student
+<h1 align="center">Hi there, I'm <a target="_blank">Vladislav</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
