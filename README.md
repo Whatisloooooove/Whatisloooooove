@@ -3,7 +3,10 @@
 
 <div align="center" style="display: flex; justify-content: center;">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=7147F7&width=435&lines=MIPT+computer+science+student" alt="Typing SVG" /></a>
-</div>
+</div>  
+
+
+    
 
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
