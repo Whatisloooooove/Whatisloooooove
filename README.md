@@ -14,11 +14,11 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <br><br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=What_is_10vee&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Whatisloooooove&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <br><br>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whatisloooooove&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whatisloooooove)](https://github.com/anuraghazra/github-readme-stats)
 
-[![What_is_10vee's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Whatisloooooove&theme=dark)](https://github.com/What_is_10vee/leetcode-stats)
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Whatisloooooove&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
