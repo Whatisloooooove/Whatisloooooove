@@ -18,7 +18,7 @@
 <br><br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 [![What_is_10vee's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=What_is_10vee&theme=dark)](https://github.com/What_is_10vee/leetcode-stats)
