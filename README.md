@@ -16,6 +16,3 @@
 <br><br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Whatisloooooove&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <br><br>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whatisloooooove&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
